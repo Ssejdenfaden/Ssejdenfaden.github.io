@@ -28,7 +28,7 @@ url: "https://ssejdenfaden.github.io/" # the base hostname & protocol for your s
 github_username:  Ssejdenfaden
 
 # Build settings
-theme: minimal
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
