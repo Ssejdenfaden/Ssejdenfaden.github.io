@@ -23,6 +23,10 @@ Another very peculiar trend we are seeing, is the first 4.5 months of 2018; here
 Finally, we see that in general, the number of assault crime occurences seem to be dwindeling as the years progresses. This consistent with what we saw for prostitution crimes in the previous assignment. This may either be due to a genuine decrease in such crimes over the years possibly due to it becoming more difficult to do so or more socially taboo (although we would think assault generally has been seen as the same amount of taboo in recent time), or, it can be due to less policing or less reporting from civilians, the latter potentially due to less trust in the police. With our current data, it is difficult to say which of these it may be, but it is clear that something has been happening incrementially over the years.
 
 ## References
+1. Police Dpeartment Incident Reports Historical 2003: https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data
+2. Police Dpeartment Incident Reports 2018 to present: https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783/about_data
+3. Earthquake shakes San Fransisco area: https://eu.usatoday.com/story/news/nation/2018/01/04/earthquake-shakes-san-francisco-area/1002768001/ 
+4. Top Stories of 2018 on ABC7News.com (San Fransisco): https://abc7news.com/year-in-review-2018-abc7-top-stories-news-of-the/4939013/ 
 
 ## Contributions
 __Shirisha:__ Bookeh graph and anaylsis
