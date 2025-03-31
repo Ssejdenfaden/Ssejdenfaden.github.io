@@ -22,7 +22,7 @@ Secondly, we see that in general, the number of assault crime occurences seem to
 
 ## Comparing assault crime with other types of crimes over the years
 
-<iframe src="/assets/bokeh_plot_monthly.html" width="800" height="600" frameborder="0"></iframe>
+<iframe src="/assets/bokeh_plot_monthly-2.html" width="800" height="600" frameborder="0"></iframe>
 
 Among the 10 focus crimes, LARCENY/THEFT is the most accured crime with 714526 incidents. Which occured almost all months except december. Assault is the 2nd highest crime accured  with 1030 incidents.Andit is also accured in all months and almsot all days of the week due to it's nature as crime that happens in various sistuations, such as personal disputes, conflicts in public places likely to occur in densely populated urban areas where interpersonal interactions are frequent. We can clearly see the hourly distribution of assult crimes accured almost all the day except eearly evening hours. Assaults are often linked to alcohol or drug use, which can occur at any time of the year or day. Economic hardships or unemployment can lead to increased stress and conflicts, contributing to assault incidents. So, it might be good to give counciling for the people and reduce the assult crime in the area.
 
