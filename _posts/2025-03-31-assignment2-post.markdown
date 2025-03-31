@@ -12,7 +12,7 @@ In this assignment we are looking at San Fransisco crime data over the years 200
 ## Assault crime occurences in San Fransisco over time
 To start, we will be looking at assault crime occurences in San Fransisco over the years. To more easily see if any temporal trends appear, we will be making a calendar plot. This allows us to easily find patterns in the data.
 
-GRAPH HERE
+![Assault crime over the years 2003-2025 in San Fransisco](/assets/calplot-assignment2.png)
 
 When we take a look at the time series data for assault specificly, we see a few interesting trends.
 
