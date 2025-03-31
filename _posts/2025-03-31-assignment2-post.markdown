@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Assignment 2"
+title:  "Assignment 2: Assault crime in San Fransisco"
 date:   2025-03-31 12:12:27 +0100
 categories: assignments
 ---
-# Assignment 2: Assault crime in San Fransisco
-## By group 9: Agathe d'Aubenton-Carafa (s243230), Shireesha Myadari (s190030), and Simone Sejdenfaden (s241647)
+_By group 9: Agathe d'Aubenton-Carafa (s243230), Shireesha Myadari (s190030), and Simone Sejdenfaden (s241647)_
+
+
 In this assignment we are looking at San Fransisco crime data over the years 2003-2025. The data is from DataSF, a citywide government project providing open source data pertaining to the city. The data was originally split into two datasets, [2003-2018](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data) and [2018-present](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783/about_data) which we combined and pre-prossesed, ensuring cohesiveness of the data. For example, irrelevant columns were dropped, categories were were updated to be the same name across the datsets, and column names were changed to be the same across the datasets as well. For our analysis we chose to focus on assault crime data as we found this to have some interesting insights and a rather large amount of data. It should be noted that we are utilizing the full range of years (2003-2025) as this was specified in assignment 1 and no changes in this specification was noted for assignment 2.
 
 ## Assault crime occurences in San Fransisco over time
@@ -24,6 +25,8 @@ Finally, we see that in general, the number of assault crime occurences seem to 
 ## References
 
 ## Contributions
-Shirisha: Bookeh graph and anaylsis
-Agathe: Map graph and analysis
-Simone: Time Series graph and anaylsis
+__Shirisha:__ Bookeh graph and anaylsis
+
+__Agathe:__ Map graph and analysis
+
+__Simone:__ Time Series graph and anaylsis
