@@ -22,7 +22,7 @@ Secondly, we see that in general, the number of assault crime occurences seem to
 
 ## Comparing assault crime with other types of crimes over the years
 
-<iframe src="/assets/bokeh_plot_monthly-2.html" width="800" height="600" frameborder="0"></iframe>
+<iframe src="/assets/bokeh_plot_monthly-2.html" width="800" height="400" frameborder="0"></iframe>
 
 The monthly distribution of to 5 focus crimes: Assault, Vehicle Theft, Vandalism, Drug/Narcotic, Laurency/Theft in San Francisco from 2003 to 2025 highlights the consistent nature of this crime across all months. Among all the crimes, LARCENY/THEFT is the most accured crime. The highest laurecy crime incidents recorded in June due to public activity, tourism, while the absence of this crime in December due to seasonal changes.
 Drug crime is on the 5th place, where these incidents are accured with seasonality from April to December.
