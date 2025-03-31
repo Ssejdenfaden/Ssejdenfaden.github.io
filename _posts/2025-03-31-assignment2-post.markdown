@@ -16,9 +16,15 @@ To start, we will be looking at assault crime occurences in San Fransisco over t
 
 When we take a look at the time series data for assault specificly, we see a few interesting trends.
 
-Firstly, in the vast majority of the years, January 1st appears to have a high count of assault crimes compared to the remainder of the year. We could speculate that this is due to New Years celebrations, but interestingly December 31st does not seem to be particularly high in assault charges, meaning they are kept to after the new year has arrived. Another big celebration day in the US is 4th of July, however, that one doesn't seem to have as strong a trend of assault crimes. This may speak to a difference in the type of celebration; the 4th of July is more often celebrated with family and is held earlier in the day compared to New Years celebrations. Another holiday that is perhaps a bit more similar in its celebrations compared to New Years, at least for young adults and particularly college students, is Halloween on the 31st of October; here we do see a spike in assault crimes on the 31st of October and 1st of November some years, however, still not as consistently as the New Years celebrations.
+Firstly, in the vast majority of the years, January 1st appears to have a high count of assault crimes compared to the remainder of the year. We could speculate that this is due to New Years celebrations, but interestingly December 31st does not seem to be particularly high in assault charges, meaning they are kept to after the new year has arrived. Another big celebration day in the US is 4th of July, however, that one doesn't seem to have as strong a trend of assault crimes. This may speak to a difference in the type of celebration; the 4th of July is more often celebrated with family and is held earlier in the day compared to New Years celebrations. Another holiday that is perhaps a bit more similar in its celebrations compared to New Years, at least for young adults and particularly college students, is Halloween on the 31st of October; here we do see a spike in assault crimes on the 31st of October and 1st of November some years, however, still not as consistently as the New Years celebrations. We tried to look for news regarding January 1st, 2003, as this date seems to have a particularly high number of assault cases, however, we were unable to find anything.
 
 Secondly, we see that in general, the number of assault crime occurences seem to be dwindeling as the years progresses. This consistent with what we saw for prostitution crimes in the previous assignment. This may either be due to a genuine decrease in such crimes over the years possibly due to it becoming more difficult to do so or more socially taboo (although we would think assault generally has been seen as the same amount of taboo in recent time), or, it can be due to less policing or less reporting from civilians, the latter potentially due to less trust in the police. With our current data, it is difficult to say which of these it may be, but it is clear that something has been happening incrementially over the years.
+
+## Comparing assault crime with other types of crimes over the years
+
+<iframe src="/assets/bokeh_plot_monthly.html" width="800" height="600" frameborder="0"></iframe>
+
+Among the 10 focus crimes, LARCENY/THEFT is the most accured crime with 714526 incidents. Which occured almost all months except december. Assault is the 2nd highest crime accured  with 1030 incidents.Andit is also accured in all months and almsot all days of the week due to it's nature as crime that happens in various sistuations, such as personal disputes, conflicts in public places likely to occur in densely populated urban areas where interpersonal interactions are frequent. We can clearly see the hourly distribution of assult crimes accured almost all the day except eearly evening hours. Assaults are often linked to alcohol or drug use, which can occur at any time of the year or day. Economic hardships or unemployment can lead to increased stress and conflicts, contributing to assault incidents. So, it might be good to give counciling for the people and reduce the assult crime in the area.
 
 ## References
 1. Police Department Incident Reports Historical 2003: https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data
@@ -27,7 +33,7 @@ Secondly, we see that in general, the number of assault crime occurences seem to
 4. Top Stories of 2018 on ABC7News.com (San Fransisco): https://abc7news.com/year-in-review-2018-abc7-top-stories-news-of-the/4939013/ 
 
 ## Contributions
-__Shirisha:__ Bookeh graph and anaylsis
+__Shirisha:__ Bokeh graph and anaylsis
 
 __Agathe:__ Map graph and analysis
 
