@@ -36,6 +36,18 @@ From the hourly distribution analysis of assault crimes it accured almost all th
  
 To conclude, Unlike other crimes that show seasonal trends, assault is influenced by human behavior, social interactions, and environmental factors. Addressing the root causes, such as alcohol abuse, economic stress, and interpersonal conflicts, can help reduce the frequency of assault crimes and improve public safety.
 
+# Dive into the crimes of New Year's Day
+
+The following map shows the distribution of crimes studied earlier for all New Year's Days from 2003 to 2025 in the city of San Francisco. The size of the points is proportional to the number of crimes committed around each location.
+
+<iframe src="crime_map.html" width="100%" height="600px" style="border:none;"></iframe>
+
+One of the first things we notice is the unequal distribution of crimes. Most of them seem to occur around Union Square, in the neighborhood of Tenderloin. Union Square is known for its lively atmosphere, with numerous shops, restaurants, and nightclubs. We can easily speculate that it constitutes a hotspot for people celebrating New Year's Eve, and the concentration of people could explain the increase in crimes in that area. Another area with a high crime rate on New Year's Day is the zone between the James Lick and John F. Foran freeways. One possible explanation could be the presence of nightclubs or events in this location.
+
+If we look more closely at the types of crimes committed on New Year's Day, larceny/theft appears to be the most frequent, followed by assault. Both can be linked to alcohol consumption during the celebrations, which makes people less aware and easier targets for theft. It is also possible that intoxicated individuals mistakenly take someone else's belongings. As for assault cases, alcohol consumption may lower inhibitions and contribute to violent behavior. Interestingly, while one might expect less inhibition to lead to the destruction of public property, vandalism appears to be relatively uncommon on New Year's Day. Additionally, for reasons unknown, there are very few car thefts on this day. On the bright side, this likely results in fewer road accidents. Finally, as expected, a significant number of infractions involving drugs or narcotics occur on New Year's Day, likely due to the numerous parties organized to celebrate the start of the year.
+
+In conclusion, the crimes committed on New Year's Day and their locations align with activities such as partying, characterized by high alcohol and illegal substance consumption, particularly in the city center, where nightlife is busiest.
+
 ## References
 1. Police Department Incident Reports Historical 2003: https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data
 2. Police Department Incident Reports 2018 to present: https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783/about_data
