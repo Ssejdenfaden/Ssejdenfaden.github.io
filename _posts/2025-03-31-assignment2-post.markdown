@@ -40,7 +40,7 @@ To conclude, Unlike other crimes that show seasonal trends, assault is influence
 
 The following map shows the distribution of crimes studied earlier for all New Year's Days from 2003 to 2025 in the city of San Francisco. The size of the points is proportional to the number of crimes committed around each location.
 
-<iframe src="crime_map.html" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="/assets/crime_map.html" width="100%" height="600px" style="border:none;"></iframe>
 
 One of the first things we notice is the unequal distribution of crimes. Most of them seem to occur around Union Square, in the neighborhood of Tenderloin. Union Square is known for its lively atmosphere, with numerous shops, restaurants, and nightclubs. We can easily speculate that it constitutes a hotspot for people celebrating New Year's Eve, and the concentration of people could explain the increase in crimes in that area. Another area with a high crime rate on New Year's Day is the zone between the James Lick and John F. Foran freeways. One possible explanation could be the presence of nightclubs or events in this location.
 
