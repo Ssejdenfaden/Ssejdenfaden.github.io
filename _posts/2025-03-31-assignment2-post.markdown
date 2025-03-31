@@ -4,7 +4,7 @@ title:  "Assignment 2: Assault crime in San Fransisco"
 date:   2025-03-31 12:12:27 +0100
 categories: assignments
 ---
-_By group 9: Agathe d'Aubenton-Carafa (s243230), Shireesha Myadari (s190030), and Simone Sejdenfaden (s241647)_
+_By group 12: Agathe d'Aubenton-Carafa (s243230), Shireesha Myadari (s190030), and Simone Sejdenfaden (s241647)_
 
 
 In this assignment we are looking at San Fransisco crime data over the years 2003-2025. The data is from DataSF, a citywide government project providing open source data pertaining to the city. The data was originally split into two datasets, [2003-2018](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data) and [2018-present](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783/about_data) which we combined and pre-prossesed, ensuring cohesiveness of the data. For example, irrelevant columns were dropped, categories were were updated to be the same name across the datsets, and column names were changed to be the same across the datasets as well. For our analysis we chose to focus on assault crime data as we found this to have some interesting insights and a rather large amount of data. It should be noted that we are utilizing the full range of years (2003-2025) as this was specified in assignment 1 and no changes in this specification was noted for assignment 2.
@@ -25,8 +25,8 @@ Another very peculiar trend we are seeing, is the first 4.5 months of 2018; here
 Finally, we see that in general, the number of assault crime occurences seem to be dwindeling as the years progresses. This consistent with what we saw for prostitution crimes in the previous assignment. This may either be due to a genuine decrease in such crimes over the years possibly due to it becoming more difficult to do so or more socially taboo (although we would think assault generally has been seen as the same amount of taboo in recent time), or, it can be due to less policing or less reporting from civilians, the latter potentially due to less trust in the police. With our current data, it is difficult to say which of these it may be, but it is clear that something has been happening incrementially over the years.
 
 ## References
-1. Police Dpeartment Incident Reports Historical 2003: https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data
-2. Police Dpeartment Incident Reports 2018 to present: https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783/about_data
+1. Police Department Incident Reports Historical 2003: https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data
+2. Police Department Incident Reports 2018 to present: https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783/about_data
 3. Earthquake shakes San Fransisco area: https://eu.usatoday.com/story/news/nation/2018/01/04/earthquake-shakes-san-francisco-area/1002768001/ 
 4. Top Stories of 2018 on ABC7News.com (San Fransisco): https://abc7news.com/year-in-review-2018-abc7-top-stories-news-of-the/4939013/ 
 
