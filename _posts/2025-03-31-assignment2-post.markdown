@@ -36,7 +36,7 @@ From the hourly distribution analysis of assault crimes it accured almost all th
  
 To conclude, Unlike other crimes that show seasonal trends, assault is influenced by human behavior, social interactions, and environmental factors. Addressing the root causes, such as alcohol abuse, economic stress, and interpersonal conflicts, can help reduce the frequency of assault crimes and improve public safety.
 
-# Dive into the crimes of New Year's Day
+## Understanding Crime on New Year's Day
 
 The following map shows the distribution of crimes studied earlier for all New Year's Days from 2003 to 2025 in the city of San Francisco. The size of the points is proportional to the number of crimes committed around each location.
 
