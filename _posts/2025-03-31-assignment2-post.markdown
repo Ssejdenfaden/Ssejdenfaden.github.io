@@ -24,7 +24,17 @@ Secondly, we see that in general, the number of assault crime occurences seem to
 
 <iframe src="/assets/bokeh_plot_monthly-2.html" width="800" height="600" frameborder="0"></iframe>
 
-Among the 10 focus crimes, LARCENY/THEFT is the most accured crime with 714526 incidents. Which occured almost all months except december. Assault is the 2nd highest crime accured  with 1030 incidents.Andit is also accured in all months and almsot all days of the week due to it's nature as crime that happens in various sistuations, such as personal disputes, conflicts in public places likely to occur in densely populated urban areas where interpersonal interactions are frequent. We can clearly see the hourly distribution of assult crimes accured almost all the day except eearly evening hours. Assaults are often linked to alcohol or drug use, which can occur at any time of the year or day. Economic hardships or unemployment can lead to increased stress and conflicts, contributing to assault incidents. So, it might be good to give counciling for the people and reduce the assult crime in the area.
+The monthly distribution of to 5 focus crimes: Assault, Vehicle Theft, Vandalism, Drug/Narcotic, Laurency/Theft in San Francisco from 2003 to 2025 highlights the consistent nature of this crime across all months. Among all the crimes, LARCENY/THEFT is the most accured crime. The highest laurecy crime incidents recorded in June due to public activity, tourism, while the absence of this crime in December due to seasonal changes.
+Drug crime is on the 5th place, where these incidents are accured with seasonality from April to December.
+As From January to March corresponds to winter season and mostly people avoide outdoor activities and community driven events explains the absesnce of this crime.
+
+Assault is the 2nd highest crime accured  with 1030 incidents. And it is also accured in all months and almsot all days of the week due to it's nature as crime that happens in various sistuations, such as personal disputes, conflicts in public places likely to occur in densely populated urban areas where interpersonal interactions are frequent. This explains why the crime occured in all months.
+
+Assaults are often linked to alcohol or drug use, which can occur at any time of the year or day. Economic hardships or unemployment can lead to increased stress and conflicts, contributing to assault incidents.
+
+From the hourly distribution analysis of assault crimes it accured almost all the day except early morning hours. This could be due to the transition period when people just wake up and travel to work and doing morning activities. The assault crime recorded high at afternoon 12 and from evening to midnight recorded highest may be due to alchahol consumption etc.
+ 
+To conclude, Unlike other crimes that show seasonal trends, assault is influenced by human behavior, social interactions, and environmental factors. Addressing the root causes, such as alcohol abuse, economic stress, and interpersonal conflicts, can help reduce the frequency of assault crimes and improve public safety.
 
 ## References
 1. Police Department Incident Reports Historical 2003: https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data
